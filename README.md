@@ -1,7 +1,6 @@
 # cifar10-classification
 
-In this project, I used a part of the Resnet18 model for cifar10 classification. As you can see in the jupyter notebook file, the best accuracy was 83.54%.
-Unfortunately, I could not use the tensorboard because of the attribute object error of numpy. I searched a lot and I understood that I had to update my numpy library. I did that but the error keeps arising. However, I did not remove the commands and commented them.
+The assigned task involved the implementation of the ResNet18 model from scratch, with the requirement of removing the last two layers, and using the model for cifar10 classification. As you can see in the jupyter notebook file, the best accuracy was 83.54%.
 
 # Getting started
 ## Requirements
